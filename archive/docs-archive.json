@@ -16,7 +16,9 @@
           {
             "group": "Get Started",
             "pages": [
-              "introduction"
+              "introduction",
+              "quickstart",
+              "development"
             ]
           },
           {
@@ -33,7 +35,7 @@
         ]
       },
       {
-        "tab": "Reference",
+        "tab": "API Reference",
         "groups": [
           {
             "group": "API Documentation",
@@ -55,8 +57,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Website",
-          "href": "https://anagram.ai",
+          "anchor": "Documentation",
+          "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
@@ -93,11 +95,6 @@
     "socials": {
       "x": "https://x.com/anagram_ai",
       "linkedin": "https://linkedin.com/company/anagram-ai"
-    }
-  },
-  "seo": {
-    "metatags": {
-      "robots": "noindex"
     }
   }
 }
