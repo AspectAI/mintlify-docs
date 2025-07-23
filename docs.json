@@ -25,17 +25,9 @@
         "tab": "Reference",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Documentation",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete"
+              "reference/introduction"
             ]
           }
         ]
@@ -49,13 +41,8 @@
           "icon": "globe"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://anagram.ai/blog",
           "icon": "newspaper"
         }
       ]
