@@ -7,6 +7,9 @@
     "light": "#000000",
     "dark": "#2E5E4E"
   },
+  "icons": {
+    "library": "lucide"
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
