@@ -14,9 +14,19 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Getting Started",
             "pages": [
               "introduction"
+            ]
+          },
+          {
+            "group": "Creating an Experience",
+            "pages": [
+              "experience-editor/outline",
+              "experience-editor/skills",
+              "experience-editor/design",
+              "experience-editor/preview",
+              "experience-editor/metrics"
             ]
           }
         ]
