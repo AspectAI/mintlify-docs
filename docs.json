@@ -41,7 +41,7 @@
           {
             "group": "Publishing an Experience",
             "pages": [
-              "experience-studio/publish-flow",
+              "experience-studio/publish-experience",
               "experience-studio/metrics-tab"
             ]
           }
