@@ -32,11 +32,17 @@
           {
             "group": "Creating an Experience",
             "pages": [
-              "experience-editor/outline",
-              "experience-editor/skills",
-              "experience-editor/design",
-              "experience-editor/preview",
-              "experience-editor/metrics"
+              "experience-studio/outline-tab",
+              "experience-studio/skills-tab",
+              "experience-studio/design-tab",
+              "experience-studio/preview-tab"
+            ]
+          },
+          {
+            "group": "Publishing an Experience",
+            "pages": [
+              "experience-studio/publish-flow",
+              "experience-studio/metrics-tab"
             ]
           }
         ]
