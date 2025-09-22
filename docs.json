@@ -25,14 +25,14 @@
           {
             "group": "Concepts",
             "pages": [
-              "concepts/outline",
-              "concepts/skills"
+              "concepts/outline-concept",
+              "concepts/skills-concept"
             ]
           },
           {
             "group": "Creating an Experience",
             "pages": [
-              "/experience-studio/outline-tab",
+              "experience-studio/outline-tab",
               "experience-studio/skills-tab",
               "experience-studio/design-tab",
               "experience-studio/preview-tab"
