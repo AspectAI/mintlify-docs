@@ -46,17 +46,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "Reference",
-        "groups": [
-          {
-            "group": "Documentation",
-            "pages": [
-              "reference/introduction"
-            ]
-          }
-        ]
       }
     ],
     "global": {
