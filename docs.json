@@ -12,6 +12,20 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Website",
+          "icon": "globe",
+          "href": "https://anagram.ai"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://anagram.ai/blog"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Guides",
@@ -39,6 +53,12 @@
             ]
           },
           {
+            "group": "Skills",
+            "pages": [
+              "guides/skills/location"
+            ]
+          },
+          {
             "group": "Publishing an Experience",
             "pages": [
               "experience-studio/publish-experience",
@@ -47,21 +67,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Website",
-          "href": "https://anagram.ai",
-          "icon": "globe"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://anagram.ai/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/anagram-wordmark-black-white-outline.svg",
