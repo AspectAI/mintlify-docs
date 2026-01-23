@@ -33,8 +33,13 @@
           {
             "group": "Getting Started",
             "pages": [
-              "guides/getting-started/create-a-location-finder",
               "introduction"
+            ]
+          },
+          {
+            "group": "Quickstarts",
+            "pages": [
+              "guides/getting-started/create-a-location-finder"
             ]
           },
           {
